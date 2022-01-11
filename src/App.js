@@ -1,5 +1,5 @@
 import "./App.css";
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import Login from "./Login";
 import { useAuth0 } from "@auth0/auth0-react";
@@ -8,7 +8,7 @@ function App() {
   const counter = useSelector((state) => state.counter);
   const randomColor = useSelector((state) => state.colorGen);
   const dispatch = useDispatch();
-  const { user, isAuthenticated, isLoading } = useAuth0();
+  const {isAuthenticated} = useAuth0();
   return (
     <div className='App'>
       <header className='App-header'>
