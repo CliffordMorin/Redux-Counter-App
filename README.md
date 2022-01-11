@@ -53,7 +53,7 @@ Create an application that uses react redux and a login/ logout option. When a u
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="REDUX" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-    <img alt="Auth0" src="https://auth0.com/?utm_source=oss&utm_medium=gp&utm_campaign=oss" />
+    <img alt="Auth0" src="https://img.shields.io/badge/Auth0-20232A?style=for-the-badge&logo=Auth0&logoColor=Red" />
 </p>
 
 ## License
